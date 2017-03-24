@@ -2,8 +2,9 @@
 O objetivo desta avaliação é medir o nível de conhecimento do candidato nas áreas em que a vaga será exigida.
 
 ## Escopo
-Deve-se criar uma aplicação em PHP para resolver o problema descrito abaixo, utilizando um framework a sua escolha (Laravel, Zend, Cake, etc).
-Utilize todo o seu conhecimento em Javascript com JQuery ou outro framework.
+Deve-se criar uma aplicação em PHP para resolver o problema descrito abaixo, utilizando um framework de sua escolha (Laravel, Zend, Cake, etc).
+
+Explore todo o seu conhecimento em Javascript com JQuery ou outro framework.
 
 ## Cenário
 Daniel possui uma locadora e deseja armazenar seu catálogo de filmes em uma base de dados.

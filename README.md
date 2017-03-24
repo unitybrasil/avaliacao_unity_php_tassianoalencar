@@ -23,5 +23,5 @@ Daniel possui uma locadora e deseja armazenar seu catálogo de filmes em uma bas
 ## Steps
 1. Faça um clone deste repositório em seu computador;
 2. Desenvolva a aplicação solicitada e suba para o repositório;
-3. Envie o script SQL do banco de dados utilizado;
+3. Envie o script SQL do banco de dados utilizado (MySQL);
 4. Você terá duas horas para demonstrar seus conhecimentos.
